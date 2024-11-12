@@ -1,4 +1,3 @@
-# Akash-Soni-2051
 ### Hi there 👋<h2> I'm Akash Soni </h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -39,20 +38,7 @@
 - 🖥 &nbsp; Gaming | Photoshop | Web Design
 <hr>
 
-
-
-<br/><br/>
-
-
-<br/>
-
 <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="350" align='right'>
-
-
-
-<br><br>
-
-
 
 <hr>
 
