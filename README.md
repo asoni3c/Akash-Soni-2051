@@ -72,11 +72,11 @@
   
 
 
-<a href="https://www.linkedin.com/in/creator-akash-soni/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-PULKIT%20SINGH-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/creator-akash-soni/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-AKASH%20SONI-blue?style=flat-square&logo=linkedin"></a>
 
-<a href="https://www.instagram.com/akash___soni/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-_pulkit.singh-black?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/akash___soni/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-akash___soni-black?style=flat-square&logo=instagram"></a>
 
-<a href="mailto:aakashkumarsoni0786@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pulkit.singh920@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:aakashkumarsoni0786@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aakashkumarsoni0786@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
 </p>
 
